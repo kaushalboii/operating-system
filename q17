@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 // Define the number of processes and resources
 #define NUM_PROCESSES 5
 #define NUM_RESOURCES 3
